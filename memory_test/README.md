@@ -1,1 +1,1 @@
-
+This is a memory test. Participants would be asked to memorize three different graphs and answer questions after the graph disappears. The type of questions include: color of the shape, shape of certain colors, positions of the shape.
