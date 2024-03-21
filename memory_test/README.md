@@ -10,4 +10,4 @@ Go to "Launcher", "Terminal", typed:
 
 pip install jupyter_ui_poll
 
-## If the input box for entering id dosen't show, then re-start cernal and run it again.
+## If the input box for entering id dosen't show, then re-start Kernal and run it again.
