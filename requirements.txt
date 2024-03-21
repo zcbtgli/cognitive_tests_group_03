@@ -1,2 +1,0 @@
-jupyter_ui_poll
-numpy
